@@ -10,11 +10,11 @@ The result of page will look this this image below.
 ## Analysis Results:
 First of all, you can type data on data search table. For example, 1/13/2010 like the data should typed same way like the pre-data (gray colour text) as shown above image otherwise it can't find data. the date exackly has to match. The result would look like this image below.
 
-![search_webpage](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_datetime_image.png)
+![search_webpage](https://github.com/msjj622/UFOs/blob/main/description%20image/1.png)
 
 After that, you can narrow information if you want to find specific data. For example, white oak like the pre-data (gray colour text) as shown above image. The same of city, state, country & shape must be matched with the data otherwise it can't read the data.
 
-![search_webpage](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_datetime_image.png)
+![search_webpage](https://github.com/msjj622/UFOs/blob/main/description%20image/2.png)
 
 
 ## Anaysis Coding:
