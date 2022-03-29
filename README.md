@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of analysis:
-The purpose of this analysis is to allow users to filter multiple criteria by providing searching table in different sectors such as city, state, country and shape. Dana's webpage already povided information as her intention, however she wanted to provide more searching table filters for users to find their seeking information fast.
+The purpose of this analysis is to allow users to filter multiple criteria by providing searching tables in different sectors such as city, state, country and shape. Dana's webpage already povided information as her intention, however she wanted to provide more searching table filters for users to find their seeking information fast.
 
 ![webpage_image](https://github.com/msjj622/UFOs/blob/main/description%20image/webpage_image.png)
 
