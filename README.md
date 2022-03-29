@@ -30,12 +30,12 @@ Third, create a variable for the filtered data to hold the updated table data ba
 ![hold_data_image](https://github.com/msjj622/UFOs/blob/main/description%20image/hold_data_image.png)
   
 ## Analysis Summary:
-# Describe one drawback of this new design:
+### Describe one drawback of this new design:
 One thing I would wanted to fix on the webpage is to fix the search tables at the same location weather the window is small or large. As the below image, it keeps moving with a little of move that I make a large. I would like to make it fixed or give a limit at the certain pixel on the webpage window, the search table would stay the same location.
 
 ![one_drawback_image](https://github.com/msjj622/UFOs/blob/main/description%20image/one_drawback_image.png)
 
-# Two recommendations for further development:
+### Two recommendations for further development:
 One recommendation would be to be fixed the list of data type (date, city, state, country, shape, duration and comments). when user scroll down the data, it would be nicer to fix the table head so that user can easily see what this information about.
 
 Second recommendation would be to add clear filter button. when user typed data on searching table, they might want to clear and re-search the whole new data. If it is provided, it would be easier to access data more accurate and understanable.
