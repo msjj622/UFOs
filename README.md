@@ -8,8 +8,16 @@ The result of page will look this this image below.
 ![filter_webpage_image](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_webpage_image.png)
 
 ## Analysis Results:
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+First of all, you can type data on data search table. For example, 1/13/2010 like the data should typed same way like the pre-data (gray colour text) as shown above image otherwise it can't find data. the date exackly has to match. The result would look like this image below.
 
+![search_webpage](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_datetime_image.png)
+
+After that, you can narrow information if you want to find specific data. For example, white oak like the pre-data (gray colour text) as shown above image. The same of city, state, country & shape must be matched with the data otherwise it can't read the data.
+
+![search_webpage](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_datetime_image.png)
+
+
+## Anaysis Coding:
 First of all, create more filters and searching tables by using '<li>' and put tilte for each table as shown image below.
 
 ![filter_html_image](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_html_image.png)
