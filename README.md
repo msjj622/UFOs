@@ -8,7 +8,7 @@ The result of page will look this this image below.
 ![filter_webpage_image](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_webpage_image.png)
 
 ## Analysis Results:
-First of all, you can type data on date search table. For example, 1/13/2010 like the data should typed same way like the pre-data (gray colour text) as shown above image otherwise it can't find data. the date exackly has to match. The result would look like this image below.
+First of all, you can type data on date search table. For example, 1/13/2010 like the data should typed same way like the pre-data (gray colour text) as shown above image otherwise it can't find data. The date exackly has to match with the date in the data. The result would look like this image below.
 
 ![search_webpage](https://github.com/msjj622/UFOs/blob/main/description%20image/1.png)
 
