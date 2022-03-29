@@ -18,7 +18,7 @@ After that, you can narrow information if you want to find specific data. For ex
 
 
 ## Anaysis Coding:
-First of all, create more filters and searching tables by using "<li>" and put tilte for each table as shown image below.
+First of all, create more filters and searching tables by using "li" and put tilte for each table as shown image below.
 
 ![filter_html_image](https://github.com/msjj622/UFOs/blob/main/description%20image/filter_html_image.png)
 
